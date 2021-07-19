@@ -40,7 +40,7 @@ In this repository you can find some projects that I have developed for companie
 
 ## Hobbies
 [![Laravel](https://img.shields.io/twitter/url?color=12&label=Gaming&logo=Nintendo%203DS&style=flat-square&url=https%3A%2F%2Fgithub.com%2Ffabiansiza994)](https://github.com/fabiansiza994/)
-<img src='https://apprecs.org/gp/images/app-icons/300/78/com.okasoft.ygodeck.jpg' style='width:22px;margin-left:3px;'>
+<img src='https://apprecs.org/gp/images/app-icons/300/78/com.okasoft.ygodeck.jpg' style='max-width: 2%;margin-left:3px;'>
 ## Learning
 - 🕴 Software Architecture.
 - 🎯 Design patterns.
