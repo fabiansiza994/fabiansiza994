@@ -3,9 +3,7 @@
 In this repository you can find some projects that I have developed for companies and even some projects that I develop to study some libraries and frameworks.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabian%20Mauricio%20Siza%20Paladines-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)](https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)
-[![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)
-
-
+[![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
 
 # Knowledges :mortar_board:
 ## Back-End
@@ -42,6 +40,7 @@ In this repository you can find some projects that I have developed for companie
 
 ## Hobbies
 [![Laravel](https://img.shields.io/twitter/url?color=12&label=Gaming&logo=Nintendo%203DS&style=flat-square&url=https%3A%2F%2Fgithub.com%2Ffabiansiza994)](https://github.com/fabiansiza994/)
+<img src='https://apprecs.org/gp/images/app-icons/300/78/com.okasoft.ygodeck.jpg' style='width:22px;margin-left:3px;'>
 ## Learning
 - 🕴 Software Architecture.
 - 🎯 Design patterns.
