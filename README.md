@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on Torrentesoftware
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about what you want
-- 📫 How to reach mhacker994
+- 📫 How to reach me hacker994
 - ⚡ Fun fact: My ideas
 
