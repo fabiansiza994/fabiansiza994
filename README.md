@@ -1,7 +1,11 @@
 # Hi, I'm Fabian Maiuricio Siza 🧔
+
 In this repository you can find some projects that I have developed for companies and even some projects that I develop to study some libraries and frameworks.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabian%20Mauricio%20Siza%20Paladines-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)](https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)
+[![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)
+
+
 
 # Knowledges :mortar_board:
 ## Back-End
@@ -11,6 +15,7 @@ In this repository you can find some projects that I have developed for companie
 [![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Pandas](https://img.shields.io/badge/-Pandas-339933?style=flat-square&logo=Pandas&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![Yugioh](https://img.shields.io/badge/-Yugioh-339933?style=flat-square&logo=Yugioh&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 ## Front-End
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
@@ -33,9 +38,10 @@ In this repository you can find some projects that I have developed for companie
 
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
+## Hobbies
+[![Laravel](https://img.shields.io/twitter/url?color=12&label=Gaming&logo=Nintendo%203DS&style=flat-square&url=https%3A%2F%2Fgithub.com%2Ffabiansiza994)](https://github.com/fabiansiza994/)
 ## Learning
 - 🕴 Software Architecture.
 - 🎯 Design patterns.
