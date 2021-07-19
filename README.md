@@ -12,7 +12,6 @@ In this repository you can find some projects that I have developed for companie
 ## Back-End
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-
 [![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Pandas](https://img.shields.io/badge/-Pandas-339933?style=flat-square&logo=Pandas&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
