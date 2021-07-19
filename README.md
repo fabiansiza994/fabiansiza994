@@ -1,4 +1,4 @@
-# Hi, I'm Fabian Maiuricio Siza 🧔
+# Hi, I'm Fabian Maiuricio Siza 🧔🏻
 
 In this repository you can find some projects that I have developed for companies and even some projects that I develop to study some libraries and frameworks.
 
