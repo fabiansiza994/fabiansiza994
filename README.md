@@ -29,7 +29,6 @@ In this repository you can find some projects that I have developed for companie
 
 ## Deploy
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-
 [![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-17158e?style=flat-square&logo=digitalocean&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
 ## Version control
