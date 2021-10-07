@@ -50,7 +50,7 @@ In this repository you can find some projects that I have developed for companie
 - 🕴 Software Architecture.
 - 🎯 Design patterns.
 - 🧩 Data structures & Algorithms.
-- ⚡ metodologia de diseño atomico.
+- ⚡ atomic design methodology.
 - ⚡ Vue
 - ⚡ Java Spring Boot
 
