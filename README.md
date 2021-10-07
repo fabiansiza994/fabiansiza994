@@ -15,6 +15,7 @@ In this repository you can find some projects that I have developed for companie
 [![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Pandas](https://img.shields.io/badge/-Pandas-339933?style=flat-square&logo=Pandas&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![Java](https://img.shields.io/badge/-Java-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
 ## Front-End
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
@@ -39,6 +40,7 @@ In this repository you can find some projects that I have developed for companie
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&link=http://gitlab.interedes.com.co/Fabian.Siza/)](http://gitlab.interedes.com.co/Fabian.Siza/)
 ## Learning
 - 🕴 Software Architecture.
 - 🎯 Design patterns.
