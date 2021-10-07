@@ -37,6 +37,10 @@ In this repository you can find some projects that I have developed for companie
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-17158e?style=flat-square&logo=digitalocean&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
+## Agile
+[![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=Jira&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat-square&logo=Scrum&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
