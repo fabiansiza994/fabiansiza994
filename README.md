@@ -12,6 +12,7 @@
 [![Java](https://img.shields.io/badge/-Java_8-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Java](https://img.shields.io/badge/-Java_11-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Java](https://img.shields.io/badge/-Java_17-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
 [![Microservices](https://img.shields.io/badge/-Microservices-purple?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Microservices](https://img.shields.io/badge/-Hexagonal_Arquitecture-blue?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
@@ -34,11 +35,14 @@
 
 ## Deploy
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
 ## Agile
 [![Jira](https://img.shields.io/badge/-Jira-navy?style=flat-square&logo=Jira&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat-square&logo=Scrum&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 [![Confluence](https://img.shields.io/badge/-Confluence-blue?style=flat-square&logo=Confluence&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+[![SAFe](https://img.shields.io/badge/-SAFe-blue?style=flat-square&logo=SAFe&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
 
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
