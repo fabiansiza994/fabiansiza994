@@ -1,50 +1,66 @@
-# Hi, I'm Fabian Maiuricio Siza 🧔🏻
+# 👋 Hi, I'm Fabian Mauricio Siza Paladines 🧔🏻
 
- Hello Thank you for viewing my profile, these are the technologies that I have worked with throughout my career, the last 5 years I have worked with Java and Spring Boot is what I feel most comfortable with currently.
- 
+Welcome to my GitHub profile!  
+I'm a passionate **Backend Developer** with 7+ years of experience building scalable and secure applications.  
+The last 5 years I've specialized in **Java** and **Spring Boot**, where I feel most at home.
+
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/-Fabian%20Mauricio%20Siza%20Paladines-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)](https://www.linkedin.com/in/fabian-mauricio-siza-paladines/)
 [![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/fabiansiza994)
 
-# Knowledges :mortar_board:
-## Back-End
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Java](https://img.shields.io/badge/-Java_8-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Java](https://img.shields.io/badge/-Java_11-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Java](https://img.shields.io/badge/-Java_17-FF2D20?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+---
 
-[![Microservices](https://img.shields.io/badge/-Microservices-purple?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Microservices](https://img.shields.io/badge/-Hexagonal_Arquitecture-blue?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Microservices](https://img.shields.io/badge/-SOLID-yellow?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Microservices](https://img.shields.io/badge/-Design_Pattern-green?style=flat-square&logo=Java&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+## 🧠 Tech Stack & Knowledge
 
-## Front-End
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### 🖥️ Back-End
+![Java](https://img.shields.io/badge/-Java_8,_11,_17-FF2D20?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-purple?style=flat-square)
+![Hexagonal](https://img.shields.io/badge/-Hexagonal_Architecture-blue?style=flat-square)
+![SOLID](https://img.shields.io/badge/-SOLID-yellow?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/-Design_Patterns-green?style=flat-square)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### 🌐 Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
 
-## Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Oracle](https://img.shields.io/badge/-Oracle-FF2D20?style=flat-square&logo=oracle&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazonaws)
+![EKS](https://img.shields.io/badge/-EKS-blue?style=flat-square&logo=kubernetes)
+![S3](https://img.shields.io/badge/-S3-orange?style=flat-square&logo=amazonaws)
+![EC2](https://img.shields.io/badge/-EC2-grey?style=flat-square&logo=amazonaws)
+![RDS](https://img.shields.io/badge/-RDS-0073bb?style=flat-square&logo=amazonaws)
+![Lambda](https://img.shields.io/badge/-Lambda-yellow?style=flat-square&logo=awslambda)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 
-## Deploy
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### 📦 Version Control & CI/CD
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
 
-## Agile
-[![Jira](https://img.shields.io/badge/-Jira-navy?style=flat-square&logo=Jira&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat-square&logo=Scrum&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![Confluence](https://img.shields.io/badge/-Confluence-blue?style=flat-square&logo=Confluence&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![SAFe](https://img.shields.io/badge/-SAFe-blue?style=flat-square&logo=SAFe&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
+### 🚀 Agile & Collaboration
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat-square)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence)
+![SAFe](https://img.shields.io/badge/-SAFe-blue?style=flat-square)
 
-## Version control
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/fabiansiza994/)](https://github.com/fabiansiza994/)
-[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&link=http://gitlab.interedes.com.co/Fabian.Siza/)](http://gitlab.interedes.com.co/Fabian.Siza/)
+---
+
+## 🗓️ Professional Timeline
+
+```text
+2023 - Present : Backend Developer at Banco Unión | Spring Boot, AWS (EKS, S3, RDS), CI/CD, Microservices
+2021 - 2023    : Senior Java Developer at Fundasoft | Java 11, Hexagonal Architecture, GitLab pipelines
+2019 - 2021    : Software Engineer at Interedes S.A.S | Java 8, Oracle DB, Scrum, AngularJS
+2017 - 2019    : Junior Developer | PHP, MySQL, Laravel, basic web development
